@@ -72,5 +72,8 @@
       "title": "",
       "url": ""
     }
-  ]
+  ],
+  "faviconBgColor": "#3e2723",
+  "faviconTextColor": "#ffeb3b",
+  "faviconText": "SP"
 }
