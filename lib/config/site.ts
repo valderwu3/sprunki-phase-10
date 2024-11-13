@@ -6,8 +6,8 @@ let config = {...siteConfigJSON} as SiteConfig;
 
 if (process.env.NODE_ENV === 'development') {
     config = {
-        ...siteConfigJSON,
-        ...defaultConfigJSON
+        ...defaultConfigJSON,
+        ...siteConfigJSON
     }
 }
 

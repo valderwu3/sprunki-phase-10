@@ -1,0 +1,41 @@
+const BundleAnalyzer = require('@next/bundle-analyzer');
+const createMDX = require('@next/mdx');
+const createNextIntlPlugin = require('next-intl/plugin');
+const remarkFrontmatter = require('remark-frontmatter');
+const remarkGfm = require('remark-gfm');
+const remarkMdxFrontmatter = require('remark-mdx-frontmatter');
+
+const withBundleAnalyzer = BundleAnalyzer({
+  enabled: false,
+});
+
+const withNextIntl = createNextIntlPlugin('./i18n.ts');
+
+const withMDX = createMDX({
+  extension: /\.(md|mdx)$/,
+  options: {
+    remarkPlugins: [remarkGfm, remarkFrontmatter, remarkMdxFrontmatter],
+    rehypePlugins: [],
+  },
+});
+
+/** @type {import('next').NextConfig} */
+const nextConfig = {
+  staticPageGenerationTimeout: 1000,
+  onDemandEntries: {
+    maxInactiveAge: 25 * 1000,
+    pagesBufferLength: 5,
+  },
+  experimental: {
+    cssChunking: 'strict',
+  },
+  productionBrowserSourceMaps: true,
+  pageExtensions: ['js', 'jsx', 'md', 'mdx', 'ts', 'tsx'],
+  transpilePackages: ['next-mdx-remote'],
+  trailingSlash: false,
+  env: {
+    UE_WEB_URL: process.env.UE_WEB_URL,
+  },
+};
+
+module.exports = withNextIntl(withMDX(withBundleAnalyzer(nextConfig))); 

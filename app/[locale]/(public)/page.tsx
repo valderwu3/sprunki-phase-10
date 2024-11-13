@@ -49,7 +49,6 @@ export default async function Page({ params }: Props) {
         <Comments />
         <Recommendation locale={locale} />
       </SectionWrapper>
-      <DownloadGame />
     </div>
   );
 }

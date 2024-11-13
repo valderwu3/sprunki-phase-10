@@ -35,7 +35,8 @@ const nextConfig: NextConfig = {
         pagesBufferLength: 5,
     },
     experimental: {
-        cssChunking: "strict"
+        cssChunking: "strict",
+        trace: false
     },
     // output: 'standalone',
     productionBrowserSourceMaps: true,
