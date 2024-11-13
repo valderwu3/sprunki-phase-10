@@ -1,5 +1,5 @@
 import { SVGProps } from 'react';
-import type { ClientUploadedFileData } from 'uploadthing/types';
+// import type { ClientUploadedFileData } from 'uploadthing/types';
 
 export interface Pageable<T = object> {
   current: number;
@@ -16,7 +16,7 @@ export interface FAQItem {
 }
 
 
-export interface UploadedFile<T = unknown> extends ClientUploadedFileData<T> {}
+// export interface UploadedFile<T = unknown> extends ClientUploadedFileData<T> {}
 
 
 
