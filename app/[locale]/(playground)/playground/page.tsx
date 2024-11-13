@@ -14,6 +14,7 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
   return {
     title: `${t('title')} | ${t('slogan')}`,
     description: t('description'),
+    keywords: siteConfig.keywords,
     alternates: {
       languages: alternatesLanguage(''),
     },

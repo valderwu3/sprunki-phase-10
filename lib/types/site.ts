@@ -42,6 +42,8 @@ export interface Theme {
 }
 
 export interface SiteConfig {
+  // 关键字
+  keywords: string[];
   // 网站名称
   name: string;
   // 网站标语
