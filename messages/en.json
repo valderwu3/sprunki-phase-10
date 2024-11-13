@@ -1,11 +1,11 @@
 {
-  "title": "",
-  "slogan": "",
-  "description": "",
+  "title": "Sprunki Phase 10",
+  "slogan": "Immerse in the haunting music world of Sprunki Phase 10.",
+  "description": "Sprunki Phase 10 is the latest installment in the Sprunki series, a fan-made modification of the popular music-mixing game Incredibox. This version takes players on a thrilling journey through a dark, horror-inspired musical landscape, enhancing the gameplay experience with new mechanics, characters, and soundscapes.",
   "Loading": {
-    "title": ""
+    "title": "Loading Sprunki Phase 10"
   },
-  "Navbar":{
+  "Navbar": {
     "title": "Nav"
   },
   "Common": {
@@ -18,42 +18,42 @@
     "friendlyLinks": "Friendly Links"
   },
   "HomeIframe": {
-    "title": "",
-    "description": "",
-    "iframeTitle": "Game Preview",
+    "title": "Discover Sprunki Phase 10",
+    "description": "Enter the dark and immersive world of Sprunki Phase 10, where music and mystery intertwine.",
+    "iframeTitle": "Sprunki Phase 10 Game Preview",
     "fullscreenButton": "Fullscreen",
     "shareButton": "Share",
     "urlCopied": "URL copied to clipboard!",
-    "downloadGame": "Download Game"
+    "downloadGame": "Download Sprunki Phase 10"
   },
   "HomeFeatures": {
-    "gameTitle": "",
-    "whatIsTitle": "",
-    "whatIsDescription": "",
+    "gameTitle": "Welcome to Sprunki Phase 10",
+    "whatIsTitle": "What is Sprunki Phase 10?",
+    "whatIsDescription": "Sprunki Phase 10 serves as a grand finale to the Sprunki narrative, immersing players in an eerie environment filled with complex rhythms and chilling themes. The game introduces unique characters that represent various musical elements—such as beats, melodies, and effects—allowing users to create intricate compositions that reflect the horror aesthetic.",
     "howToPlayTitle": "How to Play",
-    "howToPlayStep1": "",
-    "howToPlayStep2": "",
-    "howToPlayStep3": "",
+    "howToPlayStep1": "Start by entering the dark world of Sprunki Phase 10.",
+    "howToPlayStep2": "Select from various eerie avatars that bring different sounds.",
+    "howToPlayStep3": "Layer sounds by dragging them onto characters to form complex musical pieces.",
     "keyFeaturesTitle": "Key Features",
-    "feature1Title": "",
-    "feature1Description": "",
-    "feature2Title": "",
-    "feature2Description": "",
-    "feature3Title": "",
-    "feature3Description": "",
-    "feature4Title": "",
-    "feature4Description": ""
+    "feature1Title": "Dark Aesthetic",
+    "feature1Description": "The visuals are designed to evoke a haunting atmosphere, complementing the eerie soundscapes and enhancing the player's immersion in this nightmarish world.",
+    "feature2Title": "Expanded Sound Collection",
+    "feature2Description": "Players can access a wider range of sounds, including intricate polyrhythms and rich textures, which enrich their creative possibilities.",
+    "feature3Title": "Dynamic Interaction",
+    "feature3Description": "The gameplay includes real-time feedback and modulation capabilities, mimicking professional music production software.",
+    "feature4Title": "Unlockable Content",
+    "feature4Description": "Experimenting with sound combinations can unlock hidden animations and special musical effects, adding layers of depth to the gameplay."
   },
   "HomeFAQs": {
     "title": "FAQs"
   },
   "HomeRelatedVideo": {
-    "title": "Game Video"
+    "title": "Sprunki Phase 10 Video"
   },
   "HomeRecommendation": {
-    "title": "Recommends"
+    "title": "Recommendations"
   },
   "HomeComments": {
-    "title": "Play Comments"
+    "title": "Player Comments"
   }
 }

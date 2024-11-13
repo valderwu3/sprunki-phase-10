@@ -1,11 +1,11 @@
 {
-  "title": "",
-  "slogan": "",
-  "description": "",
+  "title": "Sprunki Fase 10 ($Sprunki phase 10)",
+  "slogan": "Immersi nel mondo musicale inquietante di Sprunki Fase 10. ($Sprunki phase 10)",
+  "description": "Sprunki Fase 10 è l'ultima versione della serie Sprunki, una modifica realizzata dai fan del famoso gioco di mescola musicale Incredibox. Questa versione accompagna i giocatori in un'avventura emozionante attraverso un paesaggio musicale ispirato all'horror, migliorando l'esperienza di gioco con nuove meccaniche, personaggi e scenari sonori.",
   "Loading": {
-    "title": ""
+    "title": "Caricamento Sprunki Fase 10"
   },
-  "Navbar":{
+  "Navbar": {
     "title": "Nav"
   },
   "Common": {
@@ -18,42 +18,44 @@
     "friendlyLinks": "Friendly Links"
   },
   "HomeIframe": {
-    "title": "",
-    "description": "",
-    "iframeTitle": "Game Preview",
+    "title": "Scopri Sprunki Fase 10",
+    "description": "Entra nel mondo oscuro e coinvolgente di Sprunki Fase 10, dove musica e mistero si intrecciano.",
+    "iframeTitle": "Anteprima del gioco Sprunki Fase 10",
     "fullscreenButton": "Fullscreen",
     "shareButton": "Share",
-    "urlCopied": "URL copied to clipboard!",
-    "downloadGame": "Download Game"
+    "urlCopied": "URL copiato negli appunti!",
+    "downloadGame": "Scarica Sprunki Fase 10"
   },
   "HomeFeatures": {
-    "gameTitle": "",
-    "whatIsTitle": "",
-    "whatIsDescription": "",
-    "howToPlayTitle": "How to Play",
-    "howToPlayStep1": "",
-    "howToPlayStep2": "",
-    "howToPlayStep3": "",
-    "keyFeaturesTitle": "Key Features",
-    "feature1Title": "",
-    "feature1Description": "",
-    "feature2Title": "",
-    "feature2Description": "",
-    "feature3Title": "",
-    "feature3Description": "",
-    "feature4Title": "",
-    "feature4Description": ""
+    "gameTitle": "Benvenuti in Sprunki Fase 10",
+    "whatIsTitle": "Che cosa è Sprunki Fase 10?",
+    "whatIsDescription": "Sprunki Fase 10 rappresenta la grande finale della narrativa Sprunki, immergendo i giocatori in un ambiente inquietante pieno di ritmi complessi e temi spaventosi. Il gioco presenta personaggi unici che rappresentano vari elementi musicali - come battiti, melodie ed effetti - permettendo agli utenti di creare composizioni intricate che riflettono l'estetica dell'horror.",
+    "howToPlayTitle": "Come giocare",
+    "howToPlayStep1": "Inizia entrando nel mondo oscuro di Sprunki Fase 10.",
+    "howToPlayStep2": "Seleziona tra vari avatar inquietanti che portano suoni diversi.",
+    "howToPlayStep3": "Stratifica i suoni trascinandoli sui personaggi per formare pezzi musicali complessi.",
+    "keyFeaturesTitle": "Caratteristiche principali",
+    "feature1Title": "Estetica oscura",
+    "feature1Description": "Le immagini sono progettate per evocare un'atmosfera inquietante, che si accompagna agli scenari sonori inquietanti e migliora l'immersione del giocatore in questo mondo da incubo.",
+    "feature2Title": "Raccolta sonora ampliata",
+    "feature2Description": "I giocatori possono accedere a una più ampia gamma di suoni, inclusi poliritmi intricati e texture ricche, che arricchiscono le loro possibilità creative.",
+    "feature3Title": "Interazione dinamica",
+    "feature3Description": "Il gioco include funzionalità di feedback e modulazione in tempo reale, imitando il software di produzione musicale professionale.",
+    "feature4Title": "Contenuto sbloccabile",
+    "feature4Description": "Esperimentare con le combinazioni di suoni può sbloccare animazioni nascoste ed effetti musicali speciali, aggiungendo strati di profondità al gioco.",
+    "feature5Title": "",
+    "feature5Description": ""
   },
   "HomeFAQs": {
-    "title": "FAQs"
+    "title": "Domande frequenti"
   },
   "HomeRelatedVideo": {
-    "title": "Game Video"
+    "title": "Video Sprunki Fase 10"
   },
   "HomeRecommendation": {
-    "title": "Recommends"
+    "title": "Raccomandazioni"
   },
   "HomeComments": {
-    "title": "Play Comments"
+    "title": "Commenti dei giocatori"
   }
 }

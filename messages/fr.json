@@ -1,59 +1,59 @@
 {
-  "title": "",
-  "slogan": "",
-  "description": "",
+  "title": "Sprunki Phase 10 ($Sprunki phase 10)",
+  "slogan": "Plongez dans le monde musical envoûtant de Sprunki Phase 10.",
+  "description": "Sprunki Phase 10 est le dernier opus de la série Sprunki, une modification réalisée par les fans du populaire jeu de mélange musical Incredibox. Cette version emmène les joueurs dans un voyage palpitant à travers un paysage musical sombre et inspiré par l'horreur, améliorant l'expérience de jeu avec de nouvelles mécanismes, personnages et ambiances sonores.",
   "Loading": {
-    "title": ""
+    "title": "Chargement de Sprunki Phase 10"
   },
-  "Navbar":{
+  "Navbar": {
     "title": "Nav"
   },
   "Common": {
-    "createAt": "Create At",
+    "createAt": "Date de création",
     "guide": "Guide",
-    "privacyPolicy": "Privacy Policy",
-    "termsOfServices": "Terms of Services",
-    "text": "Content",
-    "help": "Help",
-    "friendlyLinks": "Friendly Links"
+    "privacyPolicy": "Politique de confidentialité",
+    "termsOfServices": "Conditions d'utilisation",
+    "text": "Contenu",
+    "help": "Aide",
+    "friendlyLinks": "Liens amicaux"
   },
   "HomeIframe": {
-    "title": "",
-    "description": "",
-    "iframeTitle": "Game Preview",
-    "fullscreenButton": "Fullscreen",
-    "shareButton": "Share",
-    "urlCopied": "URL copied to clipboard!",
-    "downloadGame": "Download Game"
+    "title": "Découvrir Sprunki Phase 10 ($Sprunki phase 10)",
+    "description": "Entrez dans le monde sombre et immersive de Sprunki Phase 10, où la musique et le mystère s'entremêlent.",
+    "iframeTitle": "Aperçu du jeu Sprunki Phase 10 ($Sprunki phase 10)",
+    "fullscreenButton": "Plein écran",
+    "shareButton": "Partager",
+    "urlCopied": "L'URL a été copiée dans le presse - papier!",
+    "downloadGame": "Télécharger Sprunki Phase 10 ($Sprunki phase 10)"
   },
   "HomeFeatures": {
-    "gameTitle": "",
-    "whatIsTitle": "",
-    "whatIsDescription": "",
-    "howToPlayTitle": "How to Play",
-    "howToPlayStep1": "",
-    "howToPlayStep2": "",
-    "howToPlayStep3": "",
-    "keyFeaturesTitle": "Key Features",
-    "feature1Title": "",
-    "feature1Description": "",
-    "feature2Title": "",
-    "feature2Description": "",
-    "feature3Title": "",
-    "feature3Description": "",
-    "feature4Title": "",
-    "feature4Description": ""
-  },
-  "HomeFAQs": {
-    "title": "FAQs"
-  },
-  "HomeRelatedVideo": {
-    "title": "Game Video"
-  },
-  "HomeRecommendation": {
-    "title": "Recommends"
-  },
-  "HomeComments": {
-    "title": "Play Comments"
+    "gameTitle": "Bienvenue dans Sprunki Phase 10 ($Sprunki phase 10)",
+    "whatIsTitle": "Qu'est - ce que Sprunki Phase 10? ($Sprunki phase 10)",
+    "whatIsDescription": "Sprunki Phase 10 est le grand final du récit Sprunki, plongeant les joueurs dans un environnement sinistre rempli de rythmes complexes et de thèmes glaçants. Le jeu présente des personnages uniques représentant divers éléments musicaux - tels que les battements, les mélodies et les effets - permettant aux utilisateurs de créer des compositions complexes qui reflètent l'esthétique de l'horreur.",
+    "howToPlayTitle": "Comment jouer",
+    "howToPlayStep1": "Commencez par entrer dans le monde sombre de Sprunki Phase 10.",
+    "howToPlayStep2": "Sélectionnez parmi divers avatars sinistres qui apportent différents sons.",
+    "howToPlayStep3": "Superposez les sons en les faisant glisser sur les personnages pour former des pièces musicales complexes.",
+    "keyFeaturesTitle": "Caractéristiques clés",
+    "feature1Title": "Esthétique sombre",
+    "feature1Description": "Les graphismes sont conçus pour évoquer une atmosphère envoûtante, complémentant les ambiances sonores sinistres et améliorant l'immersion du joueur dans ce monde cauchemardesque.",
+    "feature2Title": "Collection de sons étendue",
+    "feature2Description": "Les joueurs peuvent accéder à un plus large éventail de sons, y compris des polyrythmes complexes et des textures riches, ce qui enrichit leurs possibilités créatives.",
+    "feature3Title": "Interaction dynamique",
+    "feature3Description": "Le jeu comprend des capacités de rétroaction et de modulation en temps réel, imitant le logiciel de production musicale professionnel.",
+    "feature4Title": "Contenu débloquable",
+    "feature4Description": "Expérimenter avec des combinaisons de sons peut débloquer des animations cachées et des effets musicaux spéciaux, ajoutant des couches de profondeur au jeu.",
+    "HomeFAQs": {
+      "title": "Questions fréquentes"
+    },
+    "HomeRelatedVideo": {
+      "title": "Vidéo Sprunki Phase 10 ($Sprunki phase 10)"
+    },
+    "HomeRecommendation": {
+      "title": "Recommandations"
+    },
+    "HomeComments": {
+      "title": "Commentaires des joueurs"
+    }
   }
 }

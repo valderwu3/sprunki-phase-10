@@ -1,11 +1,11 @@
 {
-  "title": "",
-  "slogan": "",
-  "description": "",
+  "title": "Sprunki Phase 10 ($Sprunki phase 10)",
+  "slogan": "Tauchte in die faszinierende Musikwelt von Sprunki Phase 10 ein. ($Sprunki phase 10)",
+  "description": "Sprunki Phase 10 ist die neueste Ausgabe der Sprunki - Reihe, eine von Fans erstellte Modifikation des beliebten Musik - Mischspiels Incredibox. Diese Version führt die Spieler auf eine spannende Reise durch eine dunkle, von Horror inspirierten musikalische Landschaft und verbessert das Spielerlebnis mit neuen Mechaniken, Charakteren und Klangkulissen. ($Sprunki phase 10)",
   "Loading": {
-    "title": ""
+    "title": "Lade Sprunki Phase 10 ($Sprunki phase 10)"
   },
-  "Navbar":{
+  "Navbar": {
     "title": "Nav"
   },
   "Common": {
@@ -18,42 +18,42 @@
     "friendlyLinks": "Friendly Links"
   },
   "HomeIframe": {
-    "title": "",
-    "description": "",
-    "iframeTitle": "Game Preview",
-    "fullscreenButton": "Fullscreen",
-    "shareButton": "Share",
-    "urlCopied": "URL copied to clipboard!",
-    "downloadGame": "Download Game"
+    "title": "Entdecke Sprunki Phase 10 ($Sprunki phase 10)",
+    "description": "Betrete die dunkle und fesselnde Welt von Sprunki Phase 10, wo Musik und Mysterium sich vereinen. ($Sprunki phase 10)",
+    "iframeTitle": "Sprunki Phase 10 - Spiel - Vorschau ($Sprunki phase 10)",
+    "fullscreenButton": "Vollbild",
+    "shareButton": "Teilen",
+    "urlCopied": "URL in die Zwischenablage kopiert!",
+    "downloadGame": "Sprunki Phase 10 herunterladen ($Sprunki phase 10)"
   },
   "HomeFeatures": {
-    "gameTitle": "",
-    "whatIsTitle": "",
-    "whatIsDescription": "",
+    "gameTitle": "Willkommen bei Sprunki Phase 10 ($Sprunki phase 10)",
+    "whatIsTitle": "Was ist Sprunki Phase 10? ($Sprunki phase 10)",
+    "whatIsDescription": "Sprunki Phase 10 ist das große Finale der Sprunki - Geschichte und versenkt die Spieler in eine unheimliche Umgebung voll komplexer Rhythmen und gruseligem Thema. Das Spiel stellt einzigartige Charaktere vor, die verschiedene musikalische Elemente wie Beats, Melodien und Effekte repräsentieren und es den Nutzern ermöglichen, komplizierte Kompositionen zu erstellen, die das Horror - Ästhetik widerspiegeln. ($Sprunki phase 10)",
     "howToPlayTitle": "How to Play",
-    "howToPlayStep1": "",
-    "howToPlayStep2": "",
-    "howToPlayStep3": "",
-    "keyFeaturesTitle": "Key Features",
-    "feature1Title": "",
-    "feature1Description": "",
-    "feature2Title": "",
-    "feature2Description": "",
-    "feature3Title": "",
-    "feature3Description": "",
-    "feature4Title": "",
-    "feature4Description": ""
+    "howToPlayStep1": "Beginnen Sie damit, die dunkle Welt von Sprunki Phase 10 zu betreten. ($Sprunki phase 10)",
+    "howToPlayStep2": "Wählen Sie aus verschiedenen unheimlichen Avataren, die unterschiedliche Klänge bringen. ($Sprunki phase 10)",
+    "howToPlayStep3": "Legen Sie Klänge durch Ziehen auf Charaktere, um komplexe musikalische Stücke zu formen. ($Sprunki phase 10)",
+    "keyFeaturesTitle": "Hauptmerkmale",
+    "feature1Title": "Dunkles Ästhetik",
+    "feature1Description": "Die Visuals sind so gestaltet, dass sie eine unheimliche Atmosphäre erzeugen, die die gruseligen Klangkulissen ergänzt und die Eingebundenheit des Spielers in diese albtraumhafte Welt verstärkt. ($Sprunki phase 10)",
+    "feature2Title": "Erweiterte Sound - Sammlung",
+    "feature2Description": "Die Spieler haben Zugang zu einem größeren Klangspektrum, einschließlich komplexer Polyrhythmen und reicher Texturen, die ihre kreativen Möglichkeiten erweitern. ($Sprunki phase 10)",
+    "feature3Title": "Dynamische Interaktion",
+    "feature3Description": "Das Spiel umfasst Echtzeit - Feedback - und Modulationsfähigkeiten, die professionelle Musikproduktionssoftware imitieren. ($Sprunki phase 10)",
+    "feature4Title": "Freischaltbare Inhalte",
+    "feature4Description": "Experimentieren Sie mit Klangkombinationen, um versteckte Animationen und besondere musikalische Effekte freizuschalten und zusätzliche Tiefe in das Spiel zu bringen. ($Sprunki phase 10)"
   },
   "HomeFAQs": {
     "title": "FAQs"
   },
   "HomeRelatedVideo": {
-    "title": "Game Video"
+    "title": "Sprunki Phase 10 - Video ($Sprunki phase 10)"
   },
   "HomeRecommendation": {
-    "title": "Recommends"
+    "title": "Empfehlungen ($Sprunki phase 10)"
   },
   "HomeComments": {
-    "title": "Play Comments"
+    "title": "Spielerkommentare ($Sprunki phase 10)"
   }
 }

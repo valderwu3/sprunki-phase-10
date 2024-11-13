@@ -1,59 +1,59 @@
 {
-  "title": "",
-  "slogan": "",
-  "description": "",
+  "title": "《Sprunki第10階段》($Sprunki phase 10)",
+  "slogan": "沉浸於《Sprunki第10階段》的迷人音樂世界。($Sprunki phase 10)",
+  "description": "《Sprunki第10階段》是Sprunki系列的最新版本，是流行音樂混音遊戲Incredibox的粉絲自製改版。這個版本帶領玩家踏上穿越黑暗、恐怖音樂景觀的驚險旅程，透過新機制、角色和音景增強遊戲體驗。",
   "Loading": {
-    "title": ""
+    "title": "載入《Sprunki第10階段》"
   },
-  "Navbar":{
-    "title": "Nav"
+  "Navbar": {
+    "title": "導航欄"
   },
   "Common": {
-    "createAt": "Create At",
-    "guide": "Guide",
-    "privacyPolicy": "Privacy Policy",
-    "termsOfServices": "Terms of Services",
-    "text": "Content",
-    "help": "Help",
-    "friendlyLinks": "Friendly Links"
+    "createAt": "創建於",
+    "guide": "指南",
+    "privacyPolicy": "隱私政策",
+    "termsOfServices": "服務條款",
+    "text": "內容",
+    "help": "幫助",
+    "friendlyLinks": "友情鏈接"
   },
   "HomeIframe": {
-    "title": "",
-    "description": "",
-    "iframeTitle": "Game Preview",
-    "fullscreenButton": "Fullscreen",
-    "shareButton": "Share",
-    "urlCopied": "URL copied to clipboard!",
-    "downloadGame": "Download Game"
+    "title": "探索《Sprunki第10階段》",
+    "description": "進入《Sprunki第10階段》黑暗且引人入勝的世界，在那裡音樂與神秘交織。",
+    "iframeTitle": "《Sprunki第10階段》遊戲預覽",
+    "fullscreenButton": "全屏",
+    "shareButton": "分享",
+    "urlCopied": "URL已複製到剪貼板！",
+    "downloadGame": "下載《Sprunki第10階段》"
   },
   "HomeFeatures": {
-    "gameTitle": "",
-    "whatIsTitle": "",
-    "whatIsDescription": "",
-    "howToPlayTitle": "How to Play",
-    "howToPlayStep1": "",
-    "howToPlayStep2": "",
-    "howToPlayStep3": "",
-    "keyFeaturesTitle": "Key Features",
-    "feature1Title": "",
-    "feature1Description": "",
-    "feature2Title": "",
-    "feature2Description": "",
-    "feature3Title": "",
-    "feature3Description": "",
-    "feature4Title": "",
-    "feature4Description": ""
+    "gameTitle": "歡迎來到《Sprunki第10階段》",
+    "whatIsTitle": "什麼是《Sprunki第10階段》？",
+    "whatIsDescription": "《Sprunki第10階段》是Sprunki敘事的終章，讓玩家沉浸在充滿複雜節奏和陰森主題的詭異環境中。遊戲引入代表各種音樂元素（如節拍、旋律和效果）的獨特角色，允許用戶創作反映恐怖美感的複雜曲目。",
+    "howToPlayTitle": "如何玩",
+    "howToPlayStep1": "首先進入《Sprunki第10階段》的黑暗世界。",
+    "howToPlayStep2": "從各種帶來不同音效的詭異角色中選擇。",
+    "howToPlayStep3": "通過將音效拖到角色上疊加音效以形成複雜的音樂作品。",
+    "keyFeaturesTitle": "主要特色",
+    "feature1Title": "黑暗美學",
+    "feature1Description": "視覺效果旨在營造出令人難忘的氛圍，與詭異的音景相得益彰，增強玩家在這個噩夢世界中的沉浸感。",
+    "feature2Title": "擴展的音效集合",
+    "feature2Description": "玩家可以使用更廣泛的音效，包括複雜的複節奏和豐富的音質，這豐富了他們的創作可能性。",
+    "feature3Title": "動態交互",
+    "feature3Description": "遊戲包括實時反饋和調製功能，模仿專業音樂製作軟件。",
+    "feature4Title": "可解鎖內容",
+    "feature4Description": "嘗試音效組合可以解鎖隱藏的動畫和特殊音樂效果，增加遊戲的深度。"
   },
   "HomeFAQs": {
-    "title": "FAQs"
+    "title": "常見問題"
   },
   "HomeRelatedVideo": {
-    "title": "Game Video"
+    "title": "《Sprunki第10階段》視頻"
   },
   "HomeRecommendation": {
-    "title": "Recommends"
+    "title": "推薦"
   },
   "HomeComments": {
-    "title": "Play Comments"
+    "title": "玩家評論"
   }
 }

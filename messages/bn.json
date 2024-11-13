@@ -1,59 +1,59 @@
 {
-  "title": "",
-  "slogan": "",
-  "description": "",
+  "title": "স্প্রংকি ফেজ 10 ($Sprunki phase 10)",
+  "slogan": "স্প্রংকি ফেজ 10 এর ভাসমান সংগীতের জগতে ডুবে যান।",
+  "description": "স্প্রংকি ফেজ 10 স্প্রংকি সিরিজের নতুন সংস্করণ, যা জনপ্রিয় সংগীত-মিশ্রণ গেম ইনক্রেডিবক্সের একটি ফ্যান-মেড মডিফিকেশন। এই সংস্করণটি খেলোয়াড়দের একটি অন্ধকার, ভীতি-প্রেরিত সংগীতের ল্যান্ডস্কেপের মধ্যে একটি উত্তেজনাপূর্ণ যাত্রা করায়, নতুন মেকানিক্স, চরিত্র এবং সাউন্ডস্কেপের সাহায্যে গেমপ্লে অভিজ্ঞতা বাড়ায়।",
   "Loading": {
-    "title": ""
+    "title": "স্প্রংকি ফেজ 10 লোড করা হচ্ছে"
   },
-  "Navbar":{
-    "title": "Nav"
+  "Navbar": {
+    "title": "নেভ"
   },
   "Common": {
-    "createAt": "Create At",
-    "guide": "Guide",
-    "privacyPolicy": "Privacy Policy",
-    "termsOfServices": "Terms of Services",
-    "text": "Content",
-    "help": "Help",
-    "friendlyLinks": "Friendly Links"
+    "createAt": "তৈরি করা হয়েছে",
+    "guide": "নির্দেশিকা",
+    "privacyPolicy": "গোপনীয়তা নীতি",
+    "termsOfServices": "সেবার শর্তাবলী",
+    "text": "বিষয়বস্তু",
+    "help": "সাহায্য",
+    "friendlyLinks": "বন্ধুত্বপূর্ণ লিঙ্ক"
   },
   "HomeIframe": {
-    "title": "",
-    "description": "",
-    "iframeTitle": "Game Preview",
-    "fullscreenButton": "Fullscreen",
-    "shareButton": "Share",
-    "urlCopied": "URL copied to clipboard!",
-    "downloadGame": "Download Game"
+    "title": "স্প্রংকি ফেজ 10 আবিষ্কার করুন",
+    "description": "স্প্রংকি ফেজ 10 এর অন্ধকার এবং আটকে রাখার সংগীতের জগতে প্রবেশ করুন, যেখানে সংগীত এবং রহস্য একে অপরের সাথে মিলিত হয়।",
+    "iframeTitle": "স্প্রংকি ফেজ 10 গেমের প্রিভিউ",
+    "fullscreenButton": "সম্পূর্ণ স্ক্রিন",
+    "shareButton": "শেয়ার করুন",
+    "urlCopied": "ইউআরএল ক্লিপবোর্ডে কপি করা হয়েছে!",
+    "downloadGame": "স্প্রংকি ফেজ 10 ডাউনলোড করুন"
   },
   "HomeFeatures": {
-    "gameTitle": "",
-    "whatIsTitle": "",
-    "whatIsDescription": "",
-    "howToPlayTitle": "How to Play",
-    "howToPlayStep1": "",
-    "howToPlayStep2": "",
-    "howToPlayStep3": "",
-    "keyFeaturesTitle": "Key Features",
-    "feature1Title": "",
-    "feature1Description": "",
-    "feature2Title": "",
-    "feature2Description": "",
-    "feature3Title": "",
-    "feature3Description": "",
-    "feature4Title": "",
-    "feature4Description": ""
+    "gameTitle": "স্প্রংকি ফেজ 10 তে স্বাগতম",
+    "whatIsTitle": "স্প্রংকি ফেজ 10 কি?",
+    "whatIsDescription": "স্প্রংকি ফেজ 10 স্প্রংকি কাহিনীর একটি বড় ফাইনাল, যা খেলোয়াড়দের জটিল ছন্দ এবং ঠাণ্ডা থিমে ভরপূর্ণ একটি ভীতিকর পরিবেশে নিয়ে যায়। গেমটি অনন্য চরিত্রের পরিচয় করায় যা বিভিন্ন সংগীতের উপাদান - যেমন বিট, সুর এবং প্রভাব - নির্দেশ করে, ব্যবহারকারীদের এমন জটিল সংমিশ্রণ তৈরি করতে দেয় যা ভীতিকর সৌন্দর্যের প্রতিফলন করে।",
+    "howToPlayTitle": "কিভাবে খেলতে হয়",
+    "howToPlayStep1": "স্প্রংকি ফেজ 10 এর অন্ধকার জগতে প্রবেশ করে শুরু করুন।",
+    "howToPlayStep2": "বিভিন্ন ভীতিকর অ্যাভাতার থেকে নির্বাচন করুন যা বিভিন্ন সংগীত নিয়ে আসে।",
+    "howToPlayStep3": "তাদেরকে চরিত্রের উপর টেনে নিয়ে সংগীতের স্তর তৈরি করে জটিল সংগীতের টুকরো তৈরি করুন।",
+    "keyFeaturesTitle": "মূল বৈশিষ্ট্য",
+    "feature1Title": "অন্ধকারের সৌন্দর্য",
+    "feature1Description": "দৃশ্যগুলি একটি ভাসমান পরিবেশের সৃষ্টি করার জন্য ডিজাইন করা হয়েছে, ভীতিকর সাউন্ডস্কেপের সাথে সম্পূর্ণ হয়ে খেলোয়াড়কে এই নাইটমেয়ারের জগতে ডুবে রাখতে সাহায্য করে।",
+    "feature2Title": "বিস্তৃত সাউন্ড সংগ্রহ",
+    "feature2Description": "খেলোয়াড়রা বিস্তৃত সংগীতের সাধনের সুযোগ পেতে পারে, যার মধ্যে জটিল পলিরিদম এবং সমৃদ্ধ টেক্সচার রয়েছে, যা তাদের সৃজনশীল সম্ভাবনাকে সমৃদ্ধ করে।",
+    "feature3Title": "গতিশীল ইন্টারঅ্যাকশন",
+    "feature3Description": "গেমপ্লে রিয়েল-টাইম ফিডব্যাক এবং মডুলেশন ক্ষমতা অন্তর্ভুক্ত করে, পেশাদার সংগীত উত্পাদন সফটওয়্যারের অনুকরণ করে।",
+    "feature4Title": "অনলক করা-এবং সংবেদনশীল বিষয়বস্তু",
+    "feature4Description": "সংগীতের সংমিশ্রণের সাথে পরীক্ষা করে লুকানো অ্যানিমেশন এবং বিশেষ সংগীতের প্রভাব আনলক করা যেতে পারে, গেমপ্লে এর গভীরতা স্তর যোগ করে।"
   },
   "HomeFAQs": {
-    "title": "FAQs"
+    "title": "প্রশ্নাবলী"
   },
   "HomeRelatedVideo": {
-    "title": "Game Video"
+    "title": "স্প্রংকি ফেজ 10 ভিডিও"
   },
   "HomeRecommendation": {
-    "title": "Recommends"
+    "title": "সুপারিশ"
   },
   "HomeComments": {
-    "title": "Play Comments"
+    "title": "খেলোয়াড়দের মন্তব্য"
   }
 }

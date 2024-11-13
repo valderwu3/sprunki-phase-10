@@ -1,59 +1,59 @@
 {
-  "title": "",
-  "slogan": "",
-  "description": "",
+  "title": "Sprunki Fase 10 ($Sprunki phase 10)",
+  "slogan": "Sumérgete en el fascinante mundo musical de Sprunki Fase 10 ($Sprunki phase 10).",
+  "description": "Sprunki Fase 10 es la última entrega de la serie Sprunki, una modificación hecha por los fans del popular juego de mezcla de música Incredibox. Esta versión lleva a los jugadores en un emocionante viaje a través de un paisaje musical oscuro e inspirado en el horror, mejorando la experiencia de juego con nuevas mecánicas, personajes y sonidos.",
   "Loading": {
-    "title": ""
+    "title": "Cargando Sprunki Fase 10 ($Sprunki phase 10)"
   },
-  "Navbar":{
+  "Navbar": {
     "title": "Nav"
   },
   "Common": {
-    "createAt": "Create At",
-    "guide": "Guide",
-    "privacyPolicy": "Privacy Policy",
-    "termsOfServices": "Terms of Services",
-    "text": "Content",
-    "help": "Help",
-    "friendlyLinks": "Friendly Links"
+    "createAt": "Crear En",
+    "guide": "Guía",
+    "privacyPolicy": "Política de Privacidad",
+    "termsOfServices": "Términos de Servicio",
+    "text": "Contenido",
+    "help": "Ayuda",
+    "friendlyLinks": "Enlaces Amigables"
   },
   "HomeIframe": {
-    "title": "",
-    "description": "",
-    "iframeTitle": "Game Preview",
-    "fullscreenButton": "Fullscreen",
-    "shareButton": "Share",
-    "urlCopied": "URL copied to clipboard!",
-    "downloadGame": "Download Game"
+    "title": "Descubre Sprunki Fase 10 ($Sprunki phase 10)",
+    "description": "Entra en el oscuro e inmersivo mundo de Sprunki Fase 10 ($Sprunki phase 10), donde la música y el misterio se entrelazan.",
+    "iframeTitle": "Vista previa del juego Sprunki Fase 10 ($Sprunki phase 10)",
+    "fullscreenButton": "Pantalla Completa",
+    "shareButton": "Compartir",
+    "urlCopied": "La URL se ha copiado al portapapeles!",
+    "downloadGame": "Descargar Sprunki Fase 10 ($Sprunki phase 10)"
   },
   "HomeFeatures": {
-    "gameTitle": "",
-    "whatIsTitle": "",
-    "whatIsDescription": "",
-    "howToPlayTitle": "How to Play",
-    "howToPlayStep1": "",
-    "howToPlayStep2": "",
-    "howToPlayStep3": "",
-    "keyFeaturesTitle": "Key Features",
-    "feature1Title": "",
-    "feature1Description": "",
-    "feature2Title": "",
-    "feature2Description": "",
-    "feature3Title": "",
-    "feature3Description": "",
-    "feature4Title": "",
-    "feature4Description": ""
+    "gameTitle": "Bienvenido a Sprunki Fase 10 ($Sprunki phase 10)",
+    "whatIsTitle": "¿Qué es Sprunki Fase 10? ($Sprunki phase 10)",
+    "whatIsDescription": "Sprunki Fase 10 es el final grandioso de la narrativa de Sprunki, sumergiendo a los jugadores en un ambiente siniestro lleno de ritmos complejos y temas escalofriantes. El juego presenta personajes únicos que representan diversos elementos musicales, como los ritmos, las melodías y los efectos, permitiendo a los usuarios crear composiciones intrincadas que reflejan la estética del horror.",
+    "howToPlayTitle": "Cómo Jugar",
+    "howToPlayStep1": "Empezar entrando en el mundo oscuro de Sprunki Fase 10 ($Sprunki phase 10).",
+    "howToPlayStep2": "Seleccionar entre varios avatares tétricos que traen diferentes sonidos.",
+    "howToPlayStep3": "Superponer sonidos arrastrándolos sobre los personajes para formar composiciones musicales complejas.",
+    "keyFeaturesTitle": "Características Clave",
+    "feature1Title": "Estética Oscura",
+    "feature1Description": "Los gráficos están diseñados para evocar una atmósfera inquietante, complementando los sonidos siniestros y mejorando la inmersión del jugador en este mundo de pesadilla.",
+    "feature2Title": "Colección de Sonidos Ampliada",
+    "feature2Description": "Los jugadores pueden acceder a una gama más amplia de sonidos, incluyendo polirritmos intrincados y texturas ricas, lo que enriquece sus posibilidades creativas.",
+    "feature3Title": "Interacción Dinámica",
+    "feature3Description": "El juego incluye capacidades de retroalimentación y modulación en tiempo real, imitando el software de producción musical profesional.",
+    "feature4Title": "Contenido Desbloqueable",
+    "feature4Description": "Experimentar con combinaciones de sonidos puede desbloquear animaciones ocultas y efectos musicales especiales, añadiendo capas de profundidad al juego."
   },
   "HomeFAQs": {
-    "title": "FAQs"
+    "title": "Preguntas Frecuentes"
   },
   "HomeRelatedVideo": {
-    "title": "Game Video"
+    "title": "Video de Sprunki Fase 10 ($Sprunki phase 10)"
   },
   "HomeRecommendation": {
-    "title": "Recommends"
+    "title": "Recomendaciones"
   },
   "HomeComments": {
-    "title": "Play Comments"
+    "title": "Comentarios de los Jugadores"
   }
 }

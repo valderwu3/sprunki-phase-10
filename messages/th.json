@@ -1,59 +1,59 @@
 {
-  "title": "",
-  "slogan": "",
-  "description": "",
+  "title": "สปรงกี้เฟส 10 ($Sprunki phase 10)",
+  "slogan": "แผ่ลึกลงในโลกเพลงที่น่ากลัวของสปรงกี้เฟส 10.",
+  "description": "สปรงกี้เฟส 10 เป็นตัวติดตั้งล่าสุดในซีรีส์สปรงกี้ ซึ่งเป็นการปรับแต่งโดยแฟน ๆ ของเกมผสมเพลงยอดนิยม Incredibox ។ เวอร์ชันนี้พาผู้เล่นไปในเส้นทางที่น่าตื่นเต้นผ่านภูมิทัศน์เพลงที่เป็นแรงบันดาลใจจากความหวาดกลัว สร้างประสบการณ์การเล่นเกมที่ดีขึ้นด้วยกลไก  ตัวละคร และเสียงใหม่ ๆ",
   "Loading": {
-    "title": ""
+    "title": "กำลังโหลดสปรงกี้เฟส 10"
   },
-  "Navbar":{
+  "Navbar": {
     "title": "Nav"
   },
   "Common": {
-    "createAt": "Create At",
-    "guide": "Guide",
-    "privacyPolicy": "Privacy Policy",
-    "termsOfServices": "Terms of Services",
-    "text": "Content",
-    "help": "Help",
-    "friendlyLinks": "Friendly Links"
+    "createAt": "สร้างเมื่อ",
+    "guide": "คู่มือ",
+    "privacyPolicy": "นโยบายความเป็นส่วนตัว",
+    "termsOfServices": "เงื่อนไขการให้บริการ",
+    "text": "เนื้อหา",
+    "help": "ความช่วยเหลือ",
+    "friendlyLinks": "ลิงค์เพื่อนร่วมทาง"
   },
   "HomeIframe": {
-    "title": "",
-    "description": "",
-    "iframeTitle": "Game Preview",
-    "fullscreenButton": "Fullscreen",
-    "shareButton": "Share",
-    "urlCopied": "URL copied to clipboard!",
-    "downloadGame": "Download Game"
+    "title": "ค้นพบสปรงกี้เฟส 10",
+    "description": "เข้าสู่โลกที่มืดมนและน่าประทับใจของสปรงกี้เฟส 10 ที่เพลงและความลึกลับพันธ์ร่วมกัน",
+    "iframeTitle": "สปรงกี้เฟส 10 การแสดงแบบตัวอย่างเกม",
+    "fullscreenButton": "เต็มหน้าจอ",
+    "shareButton": "แชร์",
+    "urlCopied": "URL ถูกคัดลอกไปยังคลิปบอร์ดแล้ว!",
+    "downloadGame": "ดาวน์โหลดสปรงกี้เฟส 10"
   },
   "HomeFeatures": {
-    "gameTitle": "",
-    "whatIsTitle": "",
-    "whatIsDescription": "",
-    "howToPlayTitle": "How to Play",
-    "howToPlayStep1": "",
-    "howToPlayStep2": "",
-    "howToPlayStep3": "",
-    "keyFeaturesTitle": "Key Features",
-    "feature1Title": "",
-    "feature1Description": "",
-    "feature2Title": "",
-    "feature2Description": "",
-    "feature3Title": "",
-    "feature3Description": "",
-    "feature4Title": "",
-    "feature4Description": ""
+    "gameTitle": "ยินดีต้อนรับสู่สปรงกี้เฟส 10",
+    "whatIsTitle": "สปรงกี้เฟส 10 คืออะไร?",
+    "whatIsDescription": "สปรงกี้เฟส 10 เป็นการจบท้ายที่ยิ่งใหญ่ของเรื่องราวสปรงกี้ ทำให้ผู้เล่นย้อมรู้ในสภาพแวดล้อมที่น่ากลัวและเต็มไปด้วยจังหวะที่ซับซ้อนและธีมที่หนาวเย็น เกมนี้แนะนำตัวละครที่เป็นเอกลักษณะเด่นที่แทนองค์ประกอบเพลงต่างๆ เช่น เบท เตียงเสียงและเอฟเฟกต์ ทำให้ผู้ใช้สามารถสร้างบทประพันธ์ที่ซับซ้อนที่สะท้อนถึงแนวสวยของความหวาดกลัว",
+    "howToPlayTitle": "วิธีเล่น",
+    "howToPlayStep1": "เริ่มด้วยการเข้าสู่โลกที่มืดมนของสปรงกี้เฟส 10",
+    "howToPlayStep2": "เลือกตัวละครที่น่ากลัวต่างๆ ที่นำเสียงที่แตกต่างมา",
+    "howToPlayStep3": "แผ่นเสียงโดยลากพวกมันไปยังตัวละครเพื่อสร้างบทประพันธ์เพลงที่ซับซ้อน",
+    "keyFeaturesTitle": "คุณลักษณะสำคัญ",
+    "feature1Title": "แนวสวยที่มืดมน",
+    "feature1Description": "ภาพที่ออกแบบมาเพื่อสร้างบรรยากาศที่น่ากลัว เพิ่มเติมเสียงที่น่ากลัวและเพิ่มความย้อมรู้ของผู้เล่นในโลกของความคิดร้ายนี้",
+    "feature2Title": "การเพิ่มคอลเล็กชันเสียง",
+    "feature2Description": "ผู้เล่นสามารถเข้าถึงเสียงที่มีช่วงกว้างขึ้น รวมทั้งโพลีไรท์ึมที่ซับซ้อนและเนื้อเยื่อที่อุดมสมบูรณ์ ซึ่งเพิ่มความเป็นไปได้ในการสร้างสรรค์ของพวกเขา",
+    "feature3Title": "การโต้ตอบแบบไดนามิก",
+    "feature3Description": "การเล่นเกมรวมถึงความสามารถในการรับรู้และปรับแต่งแบบเรียลไทม์ ซึ่งเลียนแบบซอฟต์แวร์การผลิตเพลงของมืออาชีพ",
+    "feature4Title": "เนื้อหาที่สามารถปลดล็อคได้",
+    "feature4Description": "การทดลองรวมเสียงสามารถปลดล็อคการเคลื่อนไหวที่ซ่อนอยู่และเอฟเฟกต์เพลงพิเศษ เพิ่มชั้นความลึกให้กับการเล่นเกม"
   },
   "HomeFAQs": {
-    "title": "FAQs"
+    "title": "คำถามที่พบบ่อย"
   },
   "HomeRelatedVideo": {
-    "title": "Game Video"
+    "title": "วิดีโอสปรงกี้เฟส 10"
   },
   "HomeRecommendation": {
-    "title": "Recommends"
+    "title": "คำแนะนำ"
   },
   "HomeComments": {
-    "title": "Play Comments"
+    "title": "ความคิดเห็นของผู้เล่น"
   }
 }

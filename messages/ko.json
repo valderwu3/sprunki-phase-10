@@ -1,59 +1,59 @@
 {
-  "title": "",
-  "slogan": "",
-  "description": "",
+  "title": "스프룬키 페이즈 10 ($Sprunki phase 10)",
+  "slogan": "스프룬키 페이즈 10의 기묘한 음악 세계에 빠져들어 보세요. ($Sprunki phase 10)",
+  "description": "스프룬키 페이즈 10은 인기 있는 음악 믹싱 게임인 인크레디박스의 팬 제작 모드인 스프룬키 시리즈의 최신 버전입니다. 이 버전은 플레이어들을 어둡고, 공포로 가득 찬 음악적 풍경을 통해 스릴 넘치는 여정을 보내며, 새로운 메커니즘, 캐릭터와 사운드스케이프로 게임 플레이 경험을 향상시킵니다.",
   "Loading": {
-    "title": ""
+    "title": "스프룬키 페이즈 10 로딩 중 ($Sprunki phase 10)"
   },
-  "Navbar":{
+  "Navbar": {
     "title": "Nav"
   },
   "Common": {
-    "createAt": "Create At",
-    "guide": "Guide",
-    "privacyPolicy": "Privacy Policy",
-    "termsOfServices": "Terms of Services",
-    "text": "Content",
-    "help": "Help",
-    "friendlyLinks": "Friendly Links"
+    "createAt": "생성일",
+    "guide": "가이드",
+    "privacyPolicy": "개인정보 정책",
+    "termsOfServices": "서비스 약관",
+    "text": "콘텐츠",
+    "help": "도움말",
+    "friendlyLinks": "유용한 링크"
   },
   "HomeIframe": {
-    "title": "",
-    "description": "",
-    "iframeTitle": "Game Preview",
-    "fullscreenButton": "Fullscreen",
-    "shareButton": "Share",
-    "urlCopied": "URL copied to clipboard!",
-    "downloadGame": "Download Game"
+    "title": "스프룬키 페이즈 10 발견하기 ($Sprunki phase 10)",
+    "description": "음악과 미스터리가 얽혀 있는 어둡고 몰입감 넘치는 스프룬키 페이즈 10의 세계로 들어가세요.",
+    "iframeTitle": "스프룬키 페이즈 10 게임 미리보기 ($Sprunki phase 10)",
+    "fullscreenButton": "전체화면",
+    "shareButton": "공유",
+    "urlCopied": "URL이 클립보드에 복사되었습니다!",
+    "downloadGame": "스프룬키 페이즈 10 다운로드 ($Sprunki phase 10)"
   },
   "HomeFeatures": {
-    "gameTitle": "",
-    "whatIsTitle": "",
-    "whatIsDescription": "",
-    "howToPlayTitle": "How to Play",
-    "howToPlayStep1": "",
-    "howToPlayStep2": "",
-    "howToPlayStep3": "",
-    "keyFeaturesTitle": "Key Features",
-    "feature1Title": "",
-    "feature1Description": "",
-    "feature2Title": "",
-    "feature2Description": "",
-    "feature3Title": "",
-    "feature3Description": "",
-    "feature4Title": "",
-    "feature4Description": ""
+    "gameTitle": "스프룬키 페이즈 10에 오신 것을 환영합니다. ($Sprunki phase 10)",
+    "whatIsTitle": "스프룬키 페이즈 10이란 무엇인가요?",
+    "whatIsDescription": "스프룬키 페이즈 10은 스프룬키 이야기의 대단원으로, 플레이어들을 복잡한 리듬과 오싹하게 하는 테마로 가득 찬 기이한 환경에 몰입시킵니다. 게임은 비트, 멜로디, 효과와 같은 다양한 음악 요소를 나타내는 독특한 캐릭터들을 소개하여, 사용자들이 공포적인 미학을 반영하는 복잡한 작곡을 만들 수 있도록 합니다.",
+    "howToPlayTitle": "플레이 방법",
+    "howToPlayStep1": "스프룬키 페이즈 10의 어두운 세계에 들어가기 시작합니다.",
+    "howToPlayStep2": "다양한 기이한 아바타를 선택하여 다른 소리를 가져옵니다.",
+    "howToPlayStep3": "소리를 캐릭터 위로 드래그하여 복잡한 음악 작품을 만들어 냅니다.",
+    "keyFeaturesTitle": "주요 특징",
+    "feature1Title": "어두운 미학",
+    "feature1Description": "비주얼은 기묘한 분위기를 불러일으키도록 설계되어, 기이한 사운드스케이프와 보완되고 플레이어의 이 악몽 같은 세계에 대한 몰입감을 높입니다.",
+    "feature2Title": "확장된 소리 모음",
+    "feature2Description": "플레이어들은 더 넓은 범위의 소리에 접근할 수 있습니다. 이는 복잡한 폴리리듬과 풍부한 질감을 포함하여, 그들의 창의적인 가능성을 풍부하게 합니다.",
+    "feature3Title": "동적 상호작용",
+    "feature3Description": "게임 플레이는 실시간 피드백과 변조 기능을 포함하여, 전문적인 음악 제작 소프트웨어를 모방합니다.",
+    "feature4Title": "풀어낼 수 있는 콘텐츠",
+    "feature4Description": "소리 조합을 실험하면 숨겨진 애니메이션과 특별한 음악 효과를 해금할 수 있어, 게임 플레이에 깊이를 더합니다."
   },
   "HomeFAQs": {
-    "title": "FAQs"
+    "title": "자주 묻는 질문 (FAQs)"
   },
   "HomeRelatedVideo": {
-    "title": "Game Video"
+    "title": "스프룬키 페이즈 10 비디오 ($Sprunki phase 10)"
   },
   "HomeRecommendation": {
-    "title": "Recommends"
+    "title": "추천"
   },
   "HomeComments": {
-    "title": "Play Comments"
+    "title": "플레이어 댓글"
   }
 }

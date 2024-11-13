@@ -1,59 +1,59 @@
 {
-  "title": "",
-  "slogan": "",
-  "description": "",
+  "title": "スプルンキ フェーズ10 ($Sprunki phase 10)",
+  "slogan": "スプルンキ フェーズ10の不気味な音楽世界に没入しましょう。 ($Sprunki phase 10)",
+  "description": "スプルンキ フェーズ10は、人気のミュージックミキシングゲーム「インクレディボックス」のファンメイドモディフィケーションであるスプルンキシリーズの最新作です。このバージョンでは、プレイヤーを暗くホラー風の音楽的風景を通じてスリリングな旅に出し、新しいメカニクス、キャラクター、サウンドスケープでゲームプレイ体験を強化します。",
   "Loading": {
-    "title": ""
+    "title": "スプルンキ フェーズ10を読み込み中 ($Sprunki phase 10)"
   },
-  "Navbar":{
+  "Navbar": {
     "title": "Nav"
   },
   "Common": {
-    "createAt": "Create At",
-    "guide": "Guide",
-    "privacyPolicy": "Privacy Policy",
-    "termsOfServices": "Terms of Services",
-    "text": "Content",
-    "help": "Help",
-    "friendlyLinks": "Friendly Links"
+    "createAt": "作成日",
+    "guide": "ガイド",
+    "privacyPolicy": "プライバシーポリシー",
+    "termsOfServices": "サービス利用規約",
+    "text": "コンテンツ",
+    "help": "ヘルプ",
+    "friendlyLinks": "関連リンク"
   },
   "HomeIframe": {
-    "title": "",
-    "description": "",
-    "iframeTitle": "Game Preview",
-    "fullscreenButton": "Fullscreen",
-    "shareButton": "Share",
-    "urlCopied": "URL copied to clipboard!",
-    "downloadGame": "Download Game"
+    "title": "スプルンキ フェーズ10を発見する ($Sprunki phase 10)",
+    "description": "音楽とミステリーが交錯する、スプルンキ フェーズ10の暗く没入感のある世界に入りましょう。",
+    "iframeTitle": "スプルンキ フェーズ10ゲームプレビュー ($Sprunki phase 10)",
+    "fullscreenButton": "全画面表示",
+    "shareButton": "共有",
+    "urlCopied": "URLがクリップボードにコピーされました！",
+    "downloadGame": "スプルンキ フェーズ10をダウンロード ($Sprunki phase 10)"
   },
   "HomeFeatures": {
-    "gameTitle": "",
-    "whatIsTitle": "",
-    "whatIsDescription": "",
-    "howToPlayTitle": "How to Play",
-    "howToPlayStep1": "",
-    "howToPlayStep2": "",
-    "howToPlayStep3": "",
-    "keyFeaturesTitle": "Key Features",
-    "feature1Title": "",
-    "feature1Description": "",
-    "feature2Title": "",
-    "feature2Description": "",
-    "feature3Title": "",
-    "feature3Description": "",
-    "feature4Title": "",
-    "feature4Description": ""
+    "gameTitle": "スプルンキ フェーズ10へようこそ",
+    "whatIsTitle": "スプルンキ フェーズ10とは？",
+    "whatIsDescription": "スプルンキ フェーズ10は、スプルンキの物語の壮大なフィナーレとして、プレイヤーを複雑なリズムと寒気を感じさせるテーマで満たされた不気味な環境に没入させます。ゲームは、ビート、メロディ、エフェクトなどの様々な音楽的要素を表すユニークなキャラクターを導入し、ユーザーがホラー的な美的感覚を反映する複雑な作曲を作成できるようにします。",
+    "howToPlayTitle": "遊び方",
+    "howToPlayStep1": "スプルンキ フェーズ10の暗い世界に入ることから始めましょう。",
+    "howToPlayStep2": "異なる音を持つ様々な不気味なアバターを選択しましょう。",
+    "howToPlayStep3": "キャラクターにドラッグして音を重ね、複雑な音楽作品を作成しましょう。",
+    "keyFeaturesTitle": "主要な機能",
+    "feature1Title": "ダークな美的感覚",
+    "feature1Description": "ビジュアルは、不気味な雰囲気を引き出すように設計されており、不気味なサウンドスケープと相まって、プレイヤーのこの悪夢の世界への没入感を高めます。",
+    "feature2Title": "拡張されたサウンドコレクション",
+    "feature2Description": "プレイヤーは、複雑なポリリズムや豊かな質感を含む、より広範囲の音にアクセスでき、それが彼らの創造的な可能性を豊かにします。",
+    "feature3Title": "動的な相互作用",
+    "feature3Description": "ゲームプレイには、リアルタイムのフィードバックと変調機能が含まれ、プロの音楽制作ソフトウェアを模倣しています。",
+    "feature4Title": "アンロック可能なコンテンツ",
+    "feature4Description": "音の組み合わせを試すことで、隠されたアニメーションと特別な音楽効果をアンロックでき、ゲームプレイに深みを加えます。"
   },
   "HomeFAQs": {
-    "title": "FAQs"
+    "title": "よくある質問"
   },
   "HomeRelatedVideo": {
-    "title": "Game Video"
+    "title": "スプルンキ フェーズ10のビデオ ($Sprunki phase 10)"
   },
   "HomeRecommendation": {
-    "title": "Recommends"
+    "title": "おすすめ"
   },
   "HomeComments": {
-    "title": "Play Comments"
+    "title": "プレイヤーのコメント"
   }
 }

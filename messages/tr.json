@@ -1,59 +1,59 @@
 {
-  "title": "",
-  "slogan": "",
-  "description": "",
+  "title": "Sprunki Fası 10 ($Sprunki phase 10)",
+  "slogan": "Sprunki Fası 10'un ürkütücü müzik dünyasına dalın.",
+  "description": "Sprunki Fası 10, popüler müzik karıştırma oyununu Incredibox'u yapan fanların yapmış olduğu Sprunki serisinin son versiyonudur. Bu versiyon, oyuncuları karanlık, korku temalı bir müzik manzarasına dair heyecanlı bir yolculuğa çıkarır ve yeni mekanikler, karakterler ve seslendirmelerle oyun deneyimini artırır.",
   "Loading": {
-    "title": ""
+    "title": "Sprunki Fası 10 Yükleniyor"
   },
-  "Navbar":{
+  "Navbar": {
     "title": "Nav"
   },
   "Common": {
-    "createAt": "Create At",
-    "guide": "Guide",
-    "privacyPolicy": "Privacy Policy",
-    "termsOfServices": "Terms of Services",
-    "text": "Content",
-    "help": "Help",
-    "friendlyLinks": "Friendly Links"
+    "createAt": "Oluşturulma Tarihi",
+    "guide": "Rehber",
+    "privacyPolicy": "Gizlilik Politikası",
+    "termsOfServices": "Hizmet Şartları",
+    "text": "İçerik",
+    "help": "Yardım",
+    "friendlyLinks": "Arkadaşlık Bağlantıları"
   },
   "HomeIframe": {
-    "title": "",
-    "description": "",
-    "iframeTitle": "Game Preview",
-    "fullscreenButton": "Fullscreen",
-    "shareButton": "Share",
-    "urlCopied": "URL copied to clipboard!",
-    "downloadGame": "Download Game"
+    "title": "Sprunki Fası 10'ı Keşfedin",
+    "description": "Sprunki Fası 10'un karanlık ve büyülü dünyasına girin, burada müzik ve gizem birleşiyor.",
+    "iframeTitle": "Sprunki Fası 10 Oyun Önizleme",
+    "fullscreenButton": "Tam Ekran",
+    "shareButton": "Paylaş",
+    "urlCopied": "URL panoya kopyalandı!",
+    "downloadGame": "Sprunki Fası 10'u İndir"
   },
   "HomeFeatures": {
-    "gameTitle": "",
-    "whatIsTitle": "",
-    "whatIsDescription": "",
-    "howToPlayTitle": "How to Play",
-    "howToPlayStep1": "",
-    "howToPlayStep2": "",
-    "howToPlayStep3": "",
-    "keyFeaturesTitle": "Key Features",
-    "feature1Title": "",
-    "feature1Description": "",
-    "feature2Title": "",
-    "feature2Description": "",
-    "feature3Title": "",
-    "feature3Description": "",
-    "feature4Title": "",
-    "feature4Description": ""
-  },
-  "HomeFAQs": {
-    "title": "FAQs"
-  },
-  "HomeRelatedVideo": {
-    "title": "Game Video"
-  },
-  "HomeRecommendation": {
-    "title": "Recommends"
-  },
-  "HomeComments": {
-    "title": "Play Comments"
+    "gameTitle": "Sprunki Fası 10'a Hoş Geldiniz",
+    "whatIsTitle": "Sprunki Fası 10 Nedir?",
+    "whatIsDescription": "Sprunki Fası 10, Sprunki anlatısının sonunu oluşturur ve oyuncuları karmaşık ritimler ve ürperti temalarla dolu bir ürperti ortamına gömer. Oyun, vurular, melodiler ve efektler gibi çeşitli müzik öğelerini temsil eden benzersiz karakterler sunar ve böylece kullanıcılar korku estetiğini yansıtan karmaşık beste yapabilirler.",
+    "howToPlayTitle": "Nasıl Oynanır",
+    "howToPlayStep1": "Sprunki Fası 10'un karanlık dünyasına girerek başlayın.",
+    "howToPlayStep2": "Farklı sesler getiren çeşitli ürperti avatarlarından seçin.",
+    "howToPlayStep3": "Karakterlere sürükleyerek sesleri katlayarak karmaşık müzik parçaları oluşturun.",
+    "keyFeaturesTitle": "Ana Özellikler",
+    "feature1Title": "Karanlık Estetik",
+    "feature1Description": "Görseller, ürperti bir atmosfer yaratmak için tasarlanmıştır, ürperti seslendirmelerini tamamlar ve oyuncu bu korku dolu dünyada daha derin bir şekilde daldırır.",
+    "feature2Title": "Genişletilmiş Ses Koleksiyonu",
+    "feature2Description": "Oyuncular daha geniş bir ses aralığına erişebilir, karmaşık poliritimler ve zengin dokular dahil, bu da yaratıcı olma olasılıklarını artırır.",
+    "feature3Title": "Dinamik Etkileşim",
+    "feature3Description": "Oyun oynanışı, profesyonel müzik üretim yazılımını taklit eden anlık geri bildirim ve modülasyon yeteneklerini içerir.",
+    "feature4Title": "Açılabilir İçerik",
+    "feature4Description": "Ses kombinasyonlarını deneyerek gizli animasyonlar ve özel müzik efektleri açılabilir, oyun oynanışına derinlik katar.",
+    "HomeFAQs": {
+      "title": "SSS"
+    },
+    "HomeRelatedVideo": {
+      "title": "Sprunki Fası 10 Video"
+    },
+    "HomeRecommendation": {
+      "title": "Öneriler"
+    },
+    "HomeComments": {
+      "title": "Oyuncu Yorumları"
+    }
   }
 }

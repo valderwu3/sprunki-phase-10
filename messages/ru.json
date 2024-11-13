@@ -1,59 +1,59 @@
 {
-  "title": "",
-  "slogan": "",
-  "description": "",
+  "title": "Спрунки Фаза 10 ($Sprunki phase 10)",
+  "slogan": "Погрузитесь в завораживающий музыкальный мир Спрунки Фаза 10 ($Sprunki phase 10).",
+  "description": "Спрунки Фаза 10 - это последняя часть в серии Спрунки, фан-ремикс популярной музыкальной игры Incredibox. Эта версия отправляет игроков в захватывающее путешествие по темному, вдохновленному ужасом музыкальному ландшафту, улучшая игровой процесс с помощью новых механик, персонажей и звуковых сопровождений.",
   "Loading": {
-    "title": ""
+    "title": "Загрузка Спрунки Фаза 10 ($Sprunki phase 10)"
   },
-  "Navbar":{
+  "Navbar": {
     "title": "Nav"
   },
   "Common": {
-    "createAt": "Create At",
-    "guide": "Guide",
-    "privacyPolicy": "Privacy Policy",
-    "termsOfServices": "Terms of Services",
-    "text": "Content",
-    "help": "Help",
-    "friendlyLinks": "Friendly Links"
+    "createAt": "Дата создания",
+    "guide": "Руководство",
+    "privacyPolicy": "Политика конфиденциальности",
+    "termsOfServices": "Условия сервиса",
+    "text": "Контент",
+    "help": "Помощь",
+    "friendlyLinks": "Дружественные ссылки"
   },
   "HomeIframe": {
-    "title": "",
-    "description": "",
-    "iframeTitle": "Game Preview",
-    "fullscreenButton": "Fullscreen",
-    "shareButton": "Share",
-    "urlCopied": "URL copied to clipboard!",
-    "downloadGame": "Download Game"
+    "title": "Обнаружить Спрунки Фаза 10 ($Sprunki phase 10)",
+    "description": "Войдите в темный и завораживающий мир Спрунки Фаза 10 ($Sprunki phase 10), где музыка и тайна переплетаются.",
+    "iframeTitle": "Предварительный просмотр игры Спрунки Фаза 10 ($Sprunki phase 10)",
+    "fullscreenButton": "Полный экран",
+    "shareButton": "Поделиться",
+    "urlCopied": "URL скопирован в буфер обмена!",
+    "downloadGame": "Скачать Спрунки Фаза 10 ($Sprunki phase 10)"
   },
   "HomeFeatures": {
-    "gameTitle": "",
-    "whatIsTitle": "",
-    "whatIsDescription": "",
-    "howToPlayTitle": "How to Play",
-    "howToPlayStep1": "",
-    "howToPlayStep2": "",
-    "howToPlayStep3": "",
-    "keyFeaturesTitle": "Key Features",
-    "feature1Title": "",
-    "feature1Description": "",
-    "feature2Title": "",
-    "feature2Description": "",
-    "feature3Title": "",
-    "feature3Description": "",
-    "feature4Title": "",
-    "feature4Description": ""
+    "gameTitle": "Добро пожаловать в Спрунки Фаза 10 ($Sprunki phase 10)",
+    "whatIsTitle": "Что такое Спрунки Фаза 10 ($Sprunki phase 10)?",
+    "whatIsDescription": "Спрунки Фаза 10 является грандиозным финалом истории Спрунки, погружая игроков в страшную среду, полную сложных ритмов и пугающих тем. Игра представляет уникальных персонажей, представляющих различные музыкальные элементы - ритмы, мелодии и эффекты - позволяя пользователям создавать сложные композиции, отражающие ужасный стиль.",
+    "howToPlayTitle": "Как играть",
+    "howToPlayStep1": "Начните с входа в темный мир Спрунки Фаза 10 ($Sprunki phase 10).",
+    "howToPlayStep2": "Выберите из различных устрашающих аватаров, которые приносят разные звуки.",
+    "howToPlayStep3": "Накладывайте звуки, перетаскивая их на персонажей, чтобы создавать сложные музыкальные произведения.",
+    "keyFeaturesTitle": "Основные особенности",
+    "feature1Title": "Темный стиль",
+    "feature1Description": "Визуальное оформление предназначено для создания завораживающего атмосферы, дополняя устрашающие звуковые ландшафты и углубляя погружение игрока в этот кошмарный мир.",
+    "feature2Title": "Расширенный набор звуков",
+    "feature2Description": "Игроки могут получить доступ к более широкому диапазону звуков, включая сложные полиритмики и богатые текстури, которые расширяют их творческие возможности.",
+    "feature3Title": "Динамическое взаимодействие",
+    "feature3Description": "Игровой процесс включает в себя возможность реального времени обратной связи и модуляции, имитируя профессиональное музыкальное программное обеспечение.",
+    "feature4Title": "Доступный контент",
+    "feature4Description": "Испытание комбинаций звуков может открыть скрытые анимации и специальные музыкальные эффекты, добавляя новые уровни в игровой процесс."
   },
   "HomeFAQs": {
-    "title": "FAQs"
+    "title": "Часто задаваемые вопросы"
   },
   "HomeRelatedVideo": {
-    "title": "Game Video"
+    "title": "Видео о Спрунки Фаза 10 ($Sprunki phase 10)"
   },
   "HomeRecommendation": {
-    "title": "Recommends"
+    "title": "Рекомендации"
   },
   "HomeComments": {
-    "title": "Play Comments"
+    "title": "Комментарии игроков"
   }
 }

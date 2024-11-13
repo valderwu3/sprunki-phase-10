@@ -1,59 +1,59 @@
 {
-  "title": "",
-  "slogan": "",
-  "description": "",
+  "title": "Sprunki Phase 10 ($Sprunki phase 10)",
+  "slogan": "Chìm đắm trong thế giới âm nhạc ám ảnh của Sprunki Phase 10 ($Sprunki phase 10).",
+  "description": "Sprunki Phase 10 là phiên bản mới nhất trong loạt Sprunki, là một sự thay đổi do người hâm mộ tạo ra cho trò chơi ghép nhạc nổi tiếng Incredibox. Phiên bản này đưa người chơi vào một hành trình thú vị qua một cảnh quan âm nhạc được lấy cảm hứng từ kinh dị, tăng cường trải nghiệm chơi với các cơ chế mới, nhân vật và âm thanh mới.",
   "Loading": {
-    "title": ""
+    "title": "Đang tải Sprunki Phase 10 ($Sprunki phase 10)"
   },
-  "Navbar":{
+  "Navbar": {
     "title": "Nav"
   },
   "Common": {
     "createAt": "Create At",
-    "guide": "Guide",
-    "privacyPolicy": "Privacy Policy",
-    "termsOfServices": "Terms of Services",
-    "text": "Content",
-    "help": "Help",
-    "friendlyLinks": "Friendly Links"
+    "guide": "Hướng dẫn",
+    "privacyPolicy": "Chính sách riêng tư",
+    "termsOfServices": "Điều khoản dịch vụ",
+    "text": "Nội dung",
+    "help": "Trợ giúp",
+    "friendlyLinks": "Các liên kết thân thiện"
   },
   "HomeIframe": {
-    "title": "",
-    "description": "",
-    "iframeTitle": "Game Preview",
-    "fullscreenButton": "Fullscreen",
-    "shareButton": "Share",
-    "urlCopied": "URL copied to clipboard!",
-    "downloadGame": "Download Game"
+    "title": "Khám phá Sprunki Phase 10 ($Sprunki phase 10)",
+    "description": "Tham gia vào thế giới tối và hút người của Sprunki Phase 10, nơi âm nhạc và bí ẩn xen kẽ nhau.",
+    "iframeTitle": "Xem trước trò chơi Sprunki Phase 10 ($Sprunki phase 10)",
+    "fullscreenButton": "Toàn màn hình",
+    "shareButton": "Chia sẻ",
+    "urlCopied": "Đường dẫn đã được sao chép vào clipboard!",
+    "downloadGame": "Tải xuống Sprunki Phase 10 ($Sprunki phase 10)"
   },
   "HomeFeatures": {
-    "gameTitle": "",
-    "whatIsTitle": "",
-    "whatIsDescription": "",
-    "howToPlayTitle": "How to Play",
-    "howToPlayStep1": "",
-    "howToPlayStep2": "",
-    "howToPlayStep3": "",
-    "keyFeaturesTitle": "Key Features",
-    "feature1Title": "",
-    "feature1Description": "",
-    "feature2Title": "",
-    "feature2Description": "",
-    "feature3Title": "",
-    "feature3Description": "",
-    "feature4Title": "",
-    "feature4Description": ""
+    "gameTitle": "Chào mừng đến với Sprunki Phase 10 ($Sprunki phase 10)",
+    "whatIsTitle": "Sprunki Phase 10 là gì? ($Sprunki phase 10)",
+    "whatIsDescription": "Sprunki Phase 10 đóng vai trò là phần kết thúc lớn cho câu chuyện Sprunki, khiến người chơi chìm đắm trong một môi trường kỳ lạ đầy những giai điệu phức tạp và chủ đề lạnh lùng. Trò chơi giới thiệu các nhân vật độc đáo đại diện cho các yếu tố âm nhạc khác nhau - như nhịp điệu, giai điệu và hiệu ứng - cho phép người dùng tạo ra những bản nhạc phức tạp thể hiện vẻ đẹp kinh dị.",
+    "howToPlayTitle": "Hướng dẫn chơi",
+    "howToPlayStep1": "Bắt đầu bằng cách bước vào thế giới tối của Sprunki Phase 10 ($Sprunki phase 10).",
+    "howToPlayStep2": "Chọn từ các biểu tượng kỳ lạ mang lại những âm thanh khác nhau.",
+    "howToPlayStep3": "Lớp âm thanh bằng cách kéo chúng lên các nhân vật để tạo thành những bản nhạc phức tạp.",
+    "keyFeaturesTitle": "Tính năng chính",
+    "feature1Title": "Thẩm mỹ tối",
+    "feature1Description": "Các hình ảnh được thiết kế để tạo ra một bầu không khí ám ảnh, bổ sung cho các cảnh âm nhạc kỳ lạ và tăng cường sự chìm đắm của người chơi trong thế giới ác mộng này.",
+    "feature2Title": "Tập hợp âm thanh mở rộng",
+    "feature2Description": "Người chơi có thể truy cập vào nhiều loại âm thanh hơn, bao gồm các nhịp điệu phức tạp và kết cấu phong phú, giúp tăng khả năng sáng tạo của họ.",
+    "feature3Title": "Tương tác động態",
+    "feature3Description": "Trò chơi bao gồm khả năng phản hồi và điều chỉnh thời gian thực, bắt chước phần mềm sản xuất âm nhạc chuyên nghiệp.",
+    "feature4Title": "Nội dung có thể mở khóa",
+    "feature4Description": "Thử nghiệm các sự kết hợp âm thanh có thể mở khóa các hoạt hình ẩn và các hiệu ứng âm nhạc đặc biệt, thêm nhiều tầng sâu cho trò chơi."
   },
   "HomeFAQs": {
-    "title": "FAQs"
+    "title": "Câu hỏi thường gặp"
   },
   "HomeRelatedVideo": {
-    "title": "Game Video"
+    "title": "Video Sprunki Phase 10 ($Sprunki phase 10)"
   },
   "HomeRecommendation": {
-    "title": "Recommends"
+    "title": "Các gợi ý"
   },
   "HomeComments": {
-    "title": "Play Comments"
+    "title": "Bình luận của người chơi"
   }
 }
