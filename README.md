@@ -1,6 +1,6 @@
-## Sprunki Game Guide Collection
-
 A comprehensive guide collection for the Sprunki series, with special focus on the latest installment - Sprunki Phase 10.
+
+our [official website](https://sprunkiphase10.top).
 
 ### About Sprunki Phase 10
 - **Overview**: A fan-made modification of Incredibox, featuring a dark, horror-inspired musical landscape.
@@ -49,4 +49,4 @@ A comprehensive guide collection for the Sprunki series, with special focus on t
 - Engage with the community for inspiration
 - Share and receive feedback on compositions
 
-For more detailed information about Sprunki Phase 10 and other versions, visit our [official website](https://sprunki.com).
+For more detailed information about Sprunki Phase 10 and other versions, visit our [official website](https://sprunkiphase10.top).
