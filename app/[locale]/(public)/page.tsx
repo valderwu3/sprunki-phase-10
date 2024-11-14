@@ -41,6 +41,8 @@ export default async function Page({ params }: Props) {
   setRequestLocale(locale);
   return (
     <div className="bg-black pt-5 pb-5 ">
+      <link rel="icon" href={siteConfig.icon} />
+      <link rel="apple-touch-icon" href={siteConfig.appleIcon} />
       <IframeSection />
       <SectionWrapper>
         <Features />
